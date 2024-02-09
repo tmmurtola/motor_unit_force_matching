@@ -1,7 +1,9 @@
 classdef MUpool
     % MUpool is a motor unit pool object implementing the different MU pool
     % structures in
-    %   Murtola & Richards (2024) ...
+    %   Murtola & Richards (2024) Matching dynamically varying forces with multi-motor-unit muscle models: A simulation study
+    %
+    % (c) 2024 Tiina Murtola/RVC
 
     properties
         tot_number

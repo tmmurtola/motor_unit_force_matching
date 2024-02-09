@@ -1,5 +1,7 @@
 function mup = generate_MUpool(n,dt,Fmax,Rf,alpha,beta,threshold_mode,threshold_params,rate_func,rate_params)
 % GENERATE_MUPOOL Initialises a MUpool object from given parameters
+% 
+% (c) 2024 Tiina Murtola/RVC
 
 opts = struct();
 

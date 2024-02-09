@@ -7,6 +7,8 @@ function [taskTargets,dt,normFlag] = force_matching_tasks(taskType,varargin)
 %       lengthChange (opt) vector of relative muscle length changes for 
 %                    elementary tasks
 %       lengthOffset (opt) initial normalised muscle length (scalar)
+% 
+% (c) 2024 Tiina Murtola/RVC
 
 
 tau_init = 50;      % length of initial pause before profiles start

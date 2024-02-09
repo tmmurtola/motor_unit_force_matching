@@ -1,6 +1,7 @@
 function [npools, mups, Fmax] = muscle_MU_settings(muscle, dt)
-
-% MU pool parameters by muscle
+% MUSCLE_MU_SETTINGS sets MU pool parameters by muscle
+%
+% (c) 2024 Tiina Murtola/RVC
 
 switch muscle
 
