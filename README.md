@@ -2,7 +2,7 @@
 
 This package contains MATLAB code that generates motor unit (MU) pools and uses them to perform force matching tasks used in
 
-Murtola & Richards (2024) Matching dynamically varying forces with multi-motor-unit muscle models: A simulation study [submitted].
+Murtola & Richards (2024) Matching dynamically varying forces with multi-motor-unit muscle models: A simulation study. BioRxiv. https://doi.org/10.1101/2024.02.13.580042
 
 # Preliminaries
 
